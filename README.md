@@ -7,7 +7,8 @@
 - 🤔 I’m looking for help with ... **finding a fun project**
 - ⚡ Fun fact: ... **je suis un mari et un père aimant**
 - 📫 How to reach me: ...
-- <!--
+
+<!--
 **nstrydom2/nstrydom2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
