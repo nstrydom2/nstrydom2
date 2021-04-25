@@ -1,6 +1,10 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=nstrydom2&color=brightgreen)
-
+- 👋 Hi, I'm ... **Nick**
+- 🔭 I’m currently working on ... **my portfolio** 
+- 🌱 I’m currently learning ... **Kotlin**
+- 👯 I’m looking to collaborate on ... **Open Source projects**
+- 🤔 I’m looking for help with ... **finding a fun project**
 <!--
 **nstrydom2/nstrydom2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
