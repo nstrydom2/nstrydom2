@@ -6,7 +6,8 @@
 - 👯 I’m looking to collaborate on ... **Open Source projects**
 - 🤔 I’m looking for help with ... **finding a fun project**
 - ⚡ Fun fact: ... **je suis un mari et un père aimant**
-<!--
+- 📫 How to reach me: ...
+- <!--
 **nstrydom2/nstrydom2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,5 +28,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nstrydom2&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=nstrydom2&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
