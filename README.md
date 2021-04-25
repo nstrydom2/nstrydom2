@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... **Open Source projects**
 - 🤔 I’m looking for help with ... **finding a fun project**
 - ⚡ Fun fact: ... **je suis un mari et un père aimant**
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... [contact.nstrydom2@gmail.com](mailto:contact.nstrydom2@gmail.com)
 
 <!--
 **nstrydom2/nstrydom2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
