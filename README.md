@@ -1,4 +1,4 @@
-### Hi there 👋
+## About Me
 ![](https://komarev.com/ghpvc/?username=nstrydom2&color=brightgreen)
 - 👋 Hi, I'm ... **Nick**
 - 🔭 I’m currently working on ... **my portfolio** 
@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Dev
 [![nstrydom2's GitHub stats](https://github-readme-stats.vercel.app/api?username=nstrydom2&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
