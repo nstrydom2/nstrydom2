@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![nstrydom2's GitHub stats](https://github-readme-stats.vercel.app/api?username=nstrydom2&count_private=true&show_icons=true&theme=radical&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nstrydom2&hide=xslt,objective-c,html,css,shell&langs_count=14&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nstrydom2&exclude_repo=dayz_server_mods&hide=xslt,objective-c,html,css,shell&langs_count=10&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=nstrydom2&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
