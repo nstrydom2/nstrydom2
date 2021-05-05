@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... **Open Source projects**
 - 🤔 I’m looking for help with ... **finding a fun project**
 - 😄 Fun fact: ... **je suis un mari et un père aimant**
-- 📫 How to reach me: ... [contact.nstrydom2@gmail.com](mailto:contact.nstrydom2@gmail.com)
+- 📫 How to reach me: ... [nstrydom@gmail.com](mailto:contact.nstrydom2@gmail.com)
 - ⚡ Check out my [CodersRank profile](https://profile.codersrank.io/user/nstrydom2)
 
 <!--
