@@ -9,7 +9,7 @@
 - 📫 How to reach me: ... [nstrydom@gmail.com](mailto:contact.nstrydom2@gmail.com)
 - ⚡ Check out my [CodersRank profile](https://profile.codersrank.io/user/nstrydom2)
 - ⚡ Check out my [Codecademy profile](https://www.codecademy.com/profiles/nstrydom)
-
+- ⚡ Check out my [Portfolio website](http://nickthedev.rocks/)
 <!--
 **nstrydom2/nstrydom2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
