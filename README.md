@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on ... **Open Source projects**
 - 🤔 I’m looking for help with ... **finding a fun project**
 <a href="#nick-title">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstrydom2&exclude_repo=dayz_server_mods&hide=xslt&langs_count=10&count_private=true&theme=radical" alt="nstrydom" align="right" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstrydom2&exclude_repo=dayz_server_mods&hide=xslt&langs_count=10&count_private=true&theme=radical&layout=compact" alt="nstrydom" align="right" />
 </a>
 
 - 😄 Fun fact: ... **je suis un mari et un père aimant**
