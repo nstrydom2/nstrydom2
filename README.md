@@ -22,7 +22,8 @@
 - ⚡ Check out my [Codecademy profile](https://www.codecademy.com/profiles/nstrydom)
 - ⚡ Check out my [Portfolio website](http://nickthedev.rocks/)
 
-<br>
+<br />
+
 ![](https://komarev.com/ghpvc/?username=nstrydom2&color=brightgreen)
 
 
