@@ -3,7 +3,6 @@
 
 <h3 align="left"> I am a Developer from the U.S. </h3>
 
-![](https://komarev.com/ghpvc/?username=nstrydom2&color=brightgreen)
 
 <a href="#nick-title">
   <img src="https://github-readme-stats.vercel.app/api?username=nstrydom2&count_private=true&show_icons=true&theme=radical&hide=contribs,issues" alt="nstrydom" align="right" />
@@ -23,6 +22,8 @@
 - ⚡ Check out my [Codecademy profile](https://www.codecademy.com/profiles/nstrydom)
 - ⚡ Check out my [Portfolio website](http://nickthedev.rocks/)
 
+<br>
+![](https://komarev.com/ghpvc/?username=nstrydom2&color=brightgreen)
 
 
 
