@@ -9,15 +9,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nstrydom2&count_private=true&show_icons=true&theme=radical&hide=contribs,issues" alt="nstrydom" align="right" />
 </a>
 
-- 👋 Hi, I'm ... **Nick**
 - 🔭 I’m currently working on ... **my portfolio** 
 - 🌱 I’m currently learning ... **Kotlin**
 - 👯 I’m looking to collaborate on ... **Open Source projects**
+- 🤔 I’m looking for help with ... **finding a fun project**
 <a href="#nick-title">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstrydom2&exclude_repo=dayz_server_mods&hide=xslt&langs_count=10&count_private=true&layout=compact&theme=radical" alt="nstrydom" align="right" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstrydom2&exclude_repo=dayz_server_mods&hide=xslt&langs_count=10&count_private=true&theme=radical" alt="nstrydom" align="right" />
 </a>
 
-- 🤔 I’m looking for help with ... **finding a fun project**
 - 😄 Fun fact: ... **je suis un mari et un père aimant**
 - 📫 How to reach me: ... [nstrydom@gmail.com](mailto:contact.nstrydom2@gmail.com)
 - ⚡ Check out my [CodersRank profile](https://profile.codersrank.io/user/nstrydom2)
