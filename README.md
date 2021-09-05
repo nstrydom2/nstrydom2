@@ -1,8 +1,6 @@
 
 <h2 align="left" id="nick-title">:wave: Hello there! I'm Nick</h1>
 
-<h3 align="left"> I am a Developer from the U.S. </h3>
-
 
 <a href="#nick-title">
   <img src="https://github-readme-stats.vercel.app/api?username=nstrydom2&count_private=true&show_icons=true&theme=radical&hide=contribs,issues" alt="nstrydom" align="right" />
