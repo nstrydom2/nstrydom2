@@ -10,16 +10,16 @@
 - ⚡ Check out my [CodersRank profile](https://profile.codersrank.io/user/nstrydom2)
 - ⚡ Check out my [Codecademy profile](https://www.codecademy.com/profiles/nstrydom)
 
+![](https://komarev.com/ghpvc/?username=nstrydom2&color=brightgreen)
+
 <a href="#nick-title">
   <img src="https://github-readme-stats.vercel.app/api?username=nstrydom2&count_private=true&show_icons=true&theme=radical&hide=contribs,issues" alt="nstrydom" align="right" />
 </a>
 
 <a href="#nick-title">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstrydom2&exclude_repo=dayz_server_mods&hide=xslt&langs_count=10&count_private=true&theme=radical&layout=compact" alt="nstrydom" align="right" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nstrydom2&exclude_repo=dayz_server_mods&hide=xslt&langs_count=10&count_private=true&theme=radical&layout=compact" alt="nstrydom" align="left" />
 </a>
-<br />
 
-![](https://komarev.com/ghpvc/?username=nstrydom2&color=brightgreen)
 
 
 
