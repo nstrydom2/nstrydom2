@@ -1,14 +1,16 @@
 
 <h2 align="left" id="nick-title">:wave: Hello there! I'm Nick</h1>
 
-- 🔭 I’m currently working on ... **Deep Learning Trading** 
-- 🌱 I’m currently learning ... **React**
+- 🔭 I’m currently working on ... **A new compression algorithm** 
+- 🌱 I’m currently learning ... **Go**
 - 👯 I’m looking to collaborate on ... **Inspiring projects**
 - 🤔 I’m looking for help with ... **Being more pragmatic**
 - 😄 Fun fact: ... **I started programming more than 2 decades ago.**
 - 📫 How to reach me: ... [nstrydom@gmail.com](mailto:contact.nstrydom2@gmail.com)
-- ⚡ Check out my [CodersRank profile](https://profile.codersrank.io/user/nstrydom2)
-- ⚡ Check out my [Codecademy profile](https://www.codecademy.com/profiles/nstrydom)
+- 🏆 Check out my [CodersRank profile](https://profile.codersrank.io/user/nstrydom2)
+- :neckbeard: Check out my [Codecademy profile](https://www.codecademy.com/profiles/nstrydom)
+- 🎓 Check out my [Portfolio Website](https://nickthedev.rocks/)
+- 💾 Check out my [Developer Blog](https://codemonkee.blogspot.com/)
 
 ![](https://komarev.com/ghpvc/?username=nstrydom2&color=brightgreen)
 
