@@ -9,8 +9,8 @@
 - 📫 How to reach me: ... [nstrydom@gmail.com](mailto:contact.nstrydom2@gmail.com)
 - 🏆 Check out my [CodersRank profile](https://profile.codersrank.io/user/nstrydom2)
 - :neckbeard: Check out my [Codecademy profile](https://www.codecademy.com/profiles/nstrydom)
-- 🎓 Check out my [Portfolio Website](https://nickthedev.rocks/)
-- 💾 Check out my [Developer Blog](https://codemonkee.blogspot.com/)
+- 🎓 Check out my [Portfolio Website](https://nickthedev.site/)
+- 💾 Check out my Console repair business [RetroLab](https://retrolab.site/)
 
 ![](https://komarev.com/ghpvc/?username=nstrydom2&color=brightgreen)
 
